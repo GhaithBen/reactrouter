@@ -1,0 +1,13 @@
+.App {
+    text-align: center;
+}
+.addmovie-btn {
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+/* .MovieList {
+    display: flex;
+    justify-content: space-between;
+}
+ */

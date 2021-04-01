@@ -1,0 +1,8 @@
+.moviesList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.moviesList > * {
+    margin: 10px;
+}
